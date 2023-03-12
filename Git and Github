@@ -20,13 +20,13 @@ COMMANDS:-
    * For new features,bug fixes,refactories,experiments.
    * Will be deleted after integration.
   Two examples branching strategies:
-    *  -Github flow
-    *  -Git flow
+    *  Github flow
+    *  Git flow
   Github dlow
    * very simple:only one long-running branch("main")+feature branches.
   Git flow
-   * -more structures,morerules
-   * -long running:"main"+"develop"
-   * -short lived:features,releases hot fixes.
+   * more structures,morerules
+   * long running:"main"+"develop"
+   * short lived:features,releases hot fixes.
   Warning notice:
     * Do not use rebase on commits that you've already pushed on a remote repository.
